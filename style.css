@@ -1,0 +1,48 @@
+.address{
+    font-family: 'Righteous', cursive;
+}
+
+.box-1{
+    height: 300px;
+}
+
+.box-2{
+    height: 400px;
+}
+
+.box-3{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 1.5em;
+}
+
+.box-last{
+    height: 550px;
+}
+
+.big-heading {
+    font-family: 'Viga', sans-serif;
+    font-size: 6em;
+}
+
+.last-heading{
+    font-weight:bold;
+    font-size: 3em;
+}
+
+.w3-card{
+    height: 200px;
+}
+
+p{
+    font-family: "Arial", Veranda, serif;
+    font-weight:bold;
+}
+
+h2{
+    font-weight: bold;
+}
+
+footer{
+    font-size: 1.25em;
+}
