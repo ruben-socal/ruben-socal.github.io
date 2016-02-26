@@ -6,18 +6,8 @@
     height: 300px;
 }
 
-.box-2{
-    height: 400px;
-}
-
-.box-3{
-    padding-left: 50px;
-    padding-right: 50px;
+.w3-card{
     font-size: 1.5em;
-}
-
-.box-last{
-    height: 550px;
 }
 
 .big-heading {
@@ -30,8 +20,25 @@
     font-size: 3em;
 }
 
-.w3-card{
-    height: 200px;
+.center-container{
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color:
+}
+
+.w3-theme-l4 {
+    color:#000 !important;
+    background-color:#d5e1f0 !important
+}
+
+.w3-theme-l5 {
+    color:#000 !important;
+    background-color:#f7f9fc !important
+}
+
+.w3-theme-d2 {
+    color:#fff !important;
+    background-color:#305684 !important
 }
 
 p{
@@ -46,3 +53,8 @@ h2{
 footer{
     font-size: 1.25em;
 }
+
+#footer-text{
+    padding-left: 70px;
+}
+
