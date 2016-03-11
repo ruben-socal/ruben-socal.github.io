@@ -2,12 +2,9 @@
     font-family: 'Righteous', cursive;
 }
 
-.box-1{
-    height: 300px;
-}
-
 .w3-card{
     font-size: 1.5em;
+    width: 95%;
 }
 
 .big-heading {
@@ -19,12 +16,12 @@
     font-weight:bold;
     font-size: 3em;
 }
-
+/**
 .center-container{
     padding-left: 70px;
     padding-right: 70px;
     background-color:
-}
+}  **/
 
 .w3-theme-l4 {
     color:#000 !important;
@@ -41,6 +38,15 @@
     background-color:#305684 !important
 }
 
+#service-text{
+    font-size:180%;
+}
+
+#phone-text{
+    color:blue;
+    font-size:300%;
+}
+
 p{
     font-family: "Arial", Veranda, serif;
     font-weight:bold;
@@ -54,7 +60,37 @@ footer{
     font-size: 1.25em;
 }
 
-#footer-text{
-    padding-left: 70px;
+form{
+    margin-right: auto;
+    width: 700px;
 }
 
+.form-header{
+    margin-right: auto;
+    width: 700px;
+}
+
+.footer-pad{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.container-width{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+/**
+.container-pad{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.area-list{
+    margin-top: -15px;
+}
+
+.right-margin{
+    margin-right: 30px;
+}  **/
